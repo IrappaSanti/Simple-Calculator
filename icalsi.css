@@ -1,0 +1,118 @@
+.m-card1 {
+    background-color: white;
+    height: 100vh;
+}
+
+.m-card {
+    background-color: #445063;
+    height: 100vh;
+}
+
+.head {
+    color: brown;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.h-card {
+    background-color: #445063;
+    border-radius: 10px;
+}
+
+.box1 {
+    background-color: #e3dce1;
+    height: 60px;
+    width: 100px;
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+.modeBox {
+    height: 4vh;
+    width: 6vw;
+}
+
+.modebut {
+    background-color: white !important;
+}
+
+.modebtn {
+    background-color: pink;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+.logo {
+    height: 15vh;
+    width: 20vw;
+}
+
+
+.labelText {
+    color: black;
+    font-size: 10px;
+    font-family: Roboto;
+}
+
+.clearIcon {
+    height: 32px;
+    width: 32px;
+}
+
+.span {
+    color: white;
+}
+
+.equal {
+    background-color: green;
+    color: white;
+}
+
+.disp {
+    background-color: white !important;
+    color: black !important;
+}
+
+.btCard {
+    background-color: white !important;
+    color: black !important;
+}
+
+.display {
+    border-radius: 15px;
+    color: white;
+    background-color: #626f78;
+    height: 100px;
+    font-size: 30px;
+    font-weight: bold;
+    border-width: 0px;
+}
+
+.display1 {
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 15px;
+    color: white;
+    background-color: #445063;
+    height: 200px;
+    border-width: 0px;
+    margin-top: 100px;
+}
+
+.para {
+    font-size: 28px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.autograph1 {
+    font-style: italic;
+    color: black;
+    font-family: Trebuchet;
+}
+
+.autograph {
+    font-style: italic;
+    color: white;
+}
